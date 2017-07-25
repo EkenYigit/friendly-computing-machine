@@ -6,13 +6,13 @@ def add(arg1, arg2):
 	"""
 	Function for adding two variables
 	"""
-	return 2 + 5
+	return arg1 + arg2
 
 def mult(arg1, arg2):
         """
 	Function for multiplying two variables
         """
-        return 2 * 5
+        return arg1 * arg2
 
 def sub(arg1,arg2):
 	"""
